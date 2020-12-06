@@ -1,0 +1,18 @@
+.page-title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+.form-container {
+  width: 400px;
+  margin: 2rem auto;
+}
+
+.ui.purple.button:focus,
+.ui.purple.buttons .button:focus,
+.ui.purple.button:hover,
+.ui.purple.buttons .button:hover {
+  background-color: #a333c8 !important;
+}
